@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9958313bb4d39863af21e2c7af85a825be203ca6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3fda1027a8659f4dbcbab8d9fd5a6ce263f94b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
