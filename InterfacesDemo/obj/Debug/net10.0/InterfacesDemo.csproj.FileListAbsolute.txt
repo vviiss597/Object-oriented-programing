@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.exe
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.deps.json
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.runtimeconfig.json
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.dll
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.pdb
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.sourcelink.json
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.dll
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\refint\InterfacesDemo.dll
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.pdb
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\OOP\InterfacesDemo\obj\Debug\net10.0\ref\InterfacesDemo.dll
